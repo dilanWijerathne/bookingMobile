@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FlightResults</string>
+    <string name="click">click</string>
+    <string name="img">img</string>
+    <string name="test1">hiiiiiiii</string>
+    <string name="test2">hiiii</string>
+    <string name="title_activity_more_option">MoreOptionActivity</string>
+    <string name="title_activity_fight_details">FightDetails</string>
+</resources>
